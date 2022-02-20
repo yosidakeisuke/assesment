@@ -1,0 +1,30 @@
+/* This is a 'stylesheet'. 
+It defines how the elements appear when they are rendered by the browser. */
+
+html {
+  height: 100%;
+}
+
+body {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  font-size: 200%;
+}
+
+button {
+  border-radius: 8px;
+  font-size: 20pt;
+  height: 50px;
+  width: 200px;
+}
+
+img {
+  height: 30%;
+}
+
+.wf-nicomoji {
+  font-family: "Nico Moji";
+}
